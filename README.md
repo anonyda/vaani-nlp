@@ -12,4 +12,8 @@ It can recognise the following from sentences:
 - Duration (for which the medicine is to be taken)
 - Interval (how many times a day a certain medicine is to be taken)
 
+## Sentence Structure
+
+``` John has a slight fever for a past few days. He has contracted a Viral Fever. He is supposed to take Azithromycin 500mg twice a day, for a week. ```
+
 This model was deployed as Flask Application. RESTFul API written in Python and deployed on Heroku.
